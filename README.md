@@ -1,3 +1,4 @@
 ## Hola
 
-![imagen](../img/TheBrigde_logo.png)
+![imagen](https://github.com/FlorDRamirez/Ramp_Up/blob/main/TheBridge_logo.png)
+
